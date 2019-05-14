@@ -1,2 +1,2 @@
 # ProjectJenkins
-# Project testing for automatic psuh failure
+# just checking	build is triggered or not
